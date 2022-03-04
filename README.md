@@ -2,6 +2,7 @@
 
 This repo contains the implementation of the “A Novel Multiresolution-Statistical Texture Analysis Architecture: Radiomics-Aided Diagnosis of PDAC Based on Plain CT Images” paper published at IEEE transactions on Medical Imaging (January 2021).
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mithunjha/PDAC_Prediction/blob/main/Implementation.ipynb)
 ## Introduction
 
 Pancreatic ductal adenocarcinoma is a type of tumor, which has poor diagnosis. Early diagnosis of PDAC has great significance. The paper uses Plain CT images to diagnose PDAC. 
