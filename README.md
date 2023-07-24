@@ -71,7 +71,7 @@ Interpret the above table :
 
 ## Acknowledgement
 
-I would like to express my special thanks of gratitude to Dr. Nuwan Dayananda and Dr. Ranga Rodrigo who gave me the golden opportunity to work on the implementation of a journal paper.
+I would like to express my special thanks of gratitude to Dr. Nuwan Dayananda and Dr. Ranga Rodrigo who gave me the opportunity to work on the implementation of a journal paper.
 
 ## Reference
 
